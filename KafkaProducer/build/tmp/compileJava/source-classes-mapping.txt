@@ -1,3 +1,0 @@
-com/csfleExample/PersonalData.java
- com.csfleExample.PersonalData
- com.csfleExample.PersonalData$Builder
